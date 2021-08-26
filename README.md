@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub Profile 👋
+
+I am a Fullstack Developer (JS, React, Node.js) that constantly is learning.
+
+🏎 I really enjoy watching F1 & Indycar🏁
+🏒Vegas Golden Knights have sparked a gigantic passion for hockey🏒
+👨‍👩‍👧‍👦 I am a happy husband and proud father to a curious boy and two loving girls.
+
+✉SethMacP@gmail.com to reach me - Please say you found me on GitHub!
 
 <!--
 **SethMacP/SethMacP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
