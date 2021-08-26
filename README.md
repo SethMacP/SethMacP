@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile 👋
 
-I am a Fullstack Developer (JS, React, Node.js) that constantly is learning.
+I am a Fullstack Developer (JS, React, Node.js) that constantly is learning as well as being heavily involved in HR & Payroll for the past decade.
 
 🏎 I really enjoy watching F1 & Indycar🏁
 
