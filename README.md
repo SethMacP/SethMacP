@@ -6,7 +6,7 @@ I am a Fullstack Developer (JS, React, Node.js) that constantly is learning as w
 
 🏒Vegas Golden Knights have sparked a gigantic passion for hockey🏒
 
-👨‍👩‍👧‍👦 I am a happy husband and proud father to a curious boy and two loving girls.
+👨‍👩‍👧‍👦 I am a happy husband and proud father to a curious boy and three loving girls.
 
 ✉SethMacP@gmail.com to reach me - Please say you found me on GitHub!
 
